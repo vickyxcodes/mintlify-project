@@ -88,7 +88,6 @@ div.hero-section img{
     z-index: -1;
     top: -50px;
     left: -150px;
-    object-fit: ;
 }
 
 section div.new{
@@ -101,7 +100,7 @@ section div.new{
     display: flex;
     gap: 8px;
     background-color: #04496A;
-    border-radius: 20px; */
+    border-radius: 20px;
 }
 
 section div.new-button{
