@@ -33,7 +33,8 @@
 
 ---
 
-## Screenshots
+## Demo Video
 
-### Nav Bar, Hero Section
-![Hero Section](screenshots/1.png)
+https://github.com/user-attachments/assets/3df2ee48-b4fc-478c-a1d3-ba6aa9204fc7
+
+
