@@ -8,7 +8,7 @@
 - Trusted By / Logos
 - Feature Highlights
 - Intelligent Assistant / UI Preview
-- nterprise Features Section
+- Enterprise Features Section
 - Case Studies / Customer Stories
 - Case Studies / Customer Stories
 - Footer
@@ -29,7 +29,7 @@
 - Primary text: #EDECEC  
 - Secondary text: #999896  
 - Borders: #45433E  
-- Accent color: #F54E00  
+- Accent color: #F54E00
 
 ---
 
